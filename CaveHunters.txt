@@ -1,0 +1,19 @@
+- 3 main cities, 1 abandon city
+- spawn in a starting city.
+- You're a miner for the coloney and have just survived a massive collapse in the tunnel systems. You have been cut off from other cities and have no power.
+- First objective is to visit the green house and gather some wood.
+- Once wood is gathered, you can take it to the smeltry room, burn it and get charcoal and make some torches
+- Once you have made the torches you are offered some wooden tools and are sent to start mining out the collapsed tunnel.
+- Once cleared out you will need to reconnect the power to the city to restore power to the facilities. 
+- Once power is restored, you will be given a bunch of objects and material gathering quests. 
+- After completing gathering quests, you are asked to go assist your sister cities.
+- Once sister cities are back up and running you are sent to investigate the cause of the collapse.
+- You find an abandoned city which seems was untouched by the collapse.
+- Inside the abandoned city, there are bosses to defeat and rare materials.
+- Once the abandoned city is cleared, you are given free reign to build your own home and city there. 
+- You then progress through some mod progression.
+- Once you reach a certain point in progression, your presence is requested in your home city. 
+- You are then asked to go to the lower levels and help establish a new colony.
+- Gather materials, build some machines, set up farms, etc...
+- Once completed, you are given some high end rare materials for your own city. This is the only way to get these materials and will allow some cool endgame machines.
+- Once your own city is completed, you can start setting up trade routes and gain rep and money with other cities. From there you can either grow and take over the other cities or expand your own.
