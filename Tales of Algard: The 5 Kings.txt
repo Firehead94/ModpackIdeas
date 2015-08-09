@@ -1,1 +1,52 @@
-//TBWritten
+Setting: 
+  - 5 Kingdoms
+    - Folgard
+      - 1st city encountered
+      - Friendly city
+      - Allied with Godwin
+    - Godwin
+      - 2nd/3rd city encountered
+      - Friendly city
+      - Allied with Folgard
+    - Ognark
+      - 2nd/3rd city encountered
+      - Enemy city
+      - Allied with Dolnar
+    - Dolnar
+      - 4th/5th city encountered
+      - Enemy city
+      - Allied with Ognark
+    - Geval Regnum
+      - The Fallen Kingdom
+      - Destroyed by mysterious force
+      - High level mobs and bosses inhabit the city
+
+Story:
+  - You start off in a destroyed village as an armorsmith and town repairman. You've woken up inside the remains of what looks to be your home. Now, with whats left, you must gather what you can and make your way to the nearest city, Folgard. You don't remember much, just a hazy vision of what looks to be a large creature surrounded in dark flames.
+  - Upon reaching the city, you are stopped at the gate and asked what your business is. You explain that you came from a nearby village and you are the sole survivor of an attack by some sort of creature. After hearing your story the guards grant you passage to the city and instruct you to visit the castle.
+  - When you reach the castle, you look for the leader of the Royal guard. You are directed to the Barracks where you then explain the situation, he takes you to the king.
+  - Once reaching the king, you are told that the king and a select few know of the beast. It has also wiped out the power station for the city and cut off communications with the sister city, Godwin. The king then asks you to join in the effort of capturing and slaying the beast.
+  - He gives you a few quests to gather materials to help rebuild the power station and establish communications with the sister city.
+  - You are taken to the power station to inspect what is left. You notice that you will need to rebuild part of the dam and rebuild the water wheels. Power lines are already run from the city to the station but the ones connecting the wheels to the system were also destroyed.
+  - Once fixing up the power station, you return to the king and he rewards you for your efforts. You are granted a small plot of land in the city to build your home upon. You have access to the cities public mines just outside the city and extend away from the town around 100 blocks as well as reaching depths of 30. 
+  - You are given 20 minecraft days to establish a house and get some armor and weapons.
+  - After the 20 days (~ 3 hours), you are given the task of establishing communications with the sister city. You are given a horse to ride and you leave the city. During your trip you find some bandits robbing a supply train. You can either leave them be or save the train, your call.
+  - If you save the train and kill the bandits, they drop a missive from the kingdom of Ognar'k. You bring the missive to the king of either city, they will ask you to investigate the city of Ognar'k.
+  - If you don't, you will eventually be asked to investigate the city but not until later.
+  - Upon reaching the new city, you are stopped by guards. You are asked for your purpose and are told that the city is in ruins after a beast attacked. You are directed to the king who welcomes you and asks you to help rebuild.
+  - You accept and start rebuilding homes and shops. You rebuild 3 homes, a blacksmiths shops, a herbalists shop and a farm. After these are built, you return to the king and he gives you a small reward aswell as some smaller quests to deliver things to villagers. He also gives you a letter to take back to Folgard.
+  - You take the letter to Folgard but on your way, you are attacked by the bandits (if you hadnt already killed them). You then get the missive and take it to one of the kings.
+  - Once back in Folgard, you visit the king, give him the letter and missve (if you hadnt alreaady). He accepts the letter and prepares some aid relief to be sent to Godwin. You are given the quest to gather materials to send them. You are also given the investigate Ognar'k quest if you havent recieved it already.
+  - You gather the items and a shipment is sent to Godwin. You are then ordered to speak to the cartographer for a map to Ognar'k.
+  - You get the map and head to Ognar'k (You will ofc need armor and weapons).
+  - Upon reaching the gates to the city, you see that they do not look friendly so you look for a backway in. You find a canal that enters into the city from side. You follow it and come up somewhere in a trade district.
+  - You scout out the city and stay clear from the guards. After listening to some gossip, its clear that both city and another city by the name of Dolnar have been attacked by a mysterious beast. After hearing of this, you escape the city and head back to Folgard.
+  - When you reach Folgard, you find it to be under attack by the beast and some minions. Guards instruct you to rush to the aid of the king. Upon reach the castle, it is in flames. You find the king and evacuate him to safety in the mines outside the city. You tell him about what you heard in Ognar'k.
+  - He asks you to go help the citizens escape to the mines while he tries to come up with a plan. You rush in to the city, tell citizens to run to the mines. You stop by your house to gather what you can and evacuate yourself as well. 
+  - Once evacuated, you wait out the beast. After a minecraft day underground, you and the guards go uptop to find the city destroyed. 
+  - You are asked to help rebuild once again. You establish your base as well as fix up the town by helping supply the town with resources (cobble, stone, gravel, wood, planks, etc...). 
+  
+  // To Be Continued //
+  
+The game will focus mostly of medival, fantasy, magic and industrial revolution mods. No high tech mods like TE and AE. Also no crazy rediculous magic mods. 
+  
